@@ -44,3 +44,5 @@ NyanCat.prototype = {
     this.reporter.onRunComplete();
   }
 };
+
+module.exports = NyanCat;
